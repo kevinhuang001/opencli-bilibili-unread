@@ -1,0 +1,15 @@
+{
+  "name": "opencli-plugin-bilibili-unread",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Bilibili 消息中心各类未读数 —— opencli 插件",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhuang001/opencli-bilibili-unread.git"
+  },
+  "keywords": ["opencli", "opencli-plugin", "bilibili", "unread"],
+  "peerDependencies": {
+    "@jackwener/opencli": ">=2.0.0"
+  }
+}

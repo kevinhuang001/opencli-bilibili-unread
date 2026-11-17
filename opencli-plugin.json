@@ -1,0 +1,10 @@
+{
+  "name": "bilibili-unread",
+  "version": "1.0.0",
+  "description": "Bilibili 消息中心各类未读数（我的消息 / 回复我的 / @我的 / 收到的赞 / 系统通知）",
+  "opencli": ">=2.0.0",
+  "author": "kevinhuang001",
+  "license": "MIT",
+  "repository": "https://github.com/kevinhuang001/opencli-bilibili-unread",
+  "keywords": ["opencli", "opencli-plugin", "bilibili", "unread", "notifications"]
+}
